@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employee-info>
+    <emp-id>1458</emp-id>
+    <emp-name>Mayur</emp-name>
+    <Email-id>mayur@gmail.com</Email-id>
+    <emp-dateofbirth>2021-11-19T13:08:02.595+05:30</emp-dateofbirth>
+    <mobileno>95453483453</mobileno>
+    <emp-JoiningData>2021-11-19T13:08:02.595+05:30</emp-JoiningData>
+    <salary>40000.0</salary>
+    <location>Chennai</location>
+    <desgination>Develop</desgination>
+    <Maritial-status>false</Maritial-status>
+    <otherInfo>
+        <gender>Male</gender>
+        <aadhar>8735790347</aadhar>
+    </otherInfo>
+    <user-address>
+        <addressBeans addresstype="Permanent">
+            <house-number>700</house-number>
+            <street>Anna Nagar</street>
+            <city>Chennai</city>
+        </addressBeans>
+        <addressBeans addresstype="Temporary">
+            <house-number>700</house-number>
+            <street>T Nagar</street>
+            <city>Delhi</city>
+        </addressBeans>
+    </user-address>
+</Employee-info>

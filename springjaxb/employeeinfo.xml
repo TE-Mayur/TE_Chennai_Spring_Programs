@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employee-info>
+    <emp-id>1458</emp-id>
+    <emp-name>Mayur</emp-name>
+    <Email-id>mayur@gmail.com</Email-id>
+    <password>mayur123</password>
+    <emp-dateofbirth>2021-11-19T12:16:11.971+05:30</emp-dateofbirth>
+    <mobileno>95453483453</mobileno>
+    <emp-JoiningData>2021-11-19T12:16:11.971+05:30</emp-JoiningData>
+    <salary>40000.0</salary>
+    <location>Chennai</location>
+    <desgination>Develop</desgination>
+    <Maritial-status>false</Maritial-status>
+</Employee-info>

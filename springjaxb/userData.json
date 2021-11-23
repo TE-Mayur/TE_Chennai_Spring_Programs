@@ -1,0 +1,30 @@
+{
+	"emp_name": "Mayur",
+	"empid": 1458,
+	"emailId": "mayur@gmail.com",
+	"datebirth": 1637313115299,
+	"mobileno": 95453483453,
+	"datejoin": 1637313115299,
+	"salary": 40000.0,
+	"location": "Chennai",
+	"desgination": "Develop",
+	"ismarried": false,
+	"otherInfo": {
+		"gender": "Male",
+		"aadhar": 8735790347
+	},
+	"addressBeans": [
+		{
+			"addresstype": "Permanent",
+			"houseno": 700,
+			"street": "Anna Nagar",
+			"city": "Chennai"
+		},
+		{
+			"addresstype": "Temporary",
+			"houseno": 700,
+			"street": "T Nagar",
+			"city": "Delhi"
+		}
+	]
+}
