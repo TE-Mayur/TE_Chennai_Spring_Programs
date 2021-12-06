@@ -1,0 +1,27 @@
+
+s	java:S1253"<This block of commented-out lines of code should be removed.(‹ìÒıÿÿÿÿ8Ì„úëÒ/H‰%RMAJORZ
+CODE_SMELL
+y
+java:S4684a"@Replace this persistent entity with a simple POJO or DTO object.(«³¹÷8—”¡ğÒ/H˜%RCRITICALZVULNERABILITY
+~
+java:S4684z"@Replace this persistent entity with a simple POJO or DTO object.(ÁÎêğÿÿÿÿÿ8èî…îÒ/H›%RCRITICALZVULNERABILITY
+
+java:S4684¤"@Replace this persistent entity with a simple POJO or DTO object.(Ğ°ÉÊıÿÿÿÿ8á½’ŠÓ/HÄ&RCRITICALZVULNERABILITY
+z
+java:S4684’"@Replace this persistent entity with a simple POJO or DTO object.(ûÓÄ8—”¡ğÒ/H%RCRITICALZVULNERABILITY
+p	java:S106"9Replace this use of System.out or System.err by a logger.(øÎ£©şÿÿÿÿ8ÛÆûæÒ/H–%RMAJORZ
+CODE_SMELL
+~
+java:S4684H"@Replace this persistent entity with a simple POJO or DTO object.(ñàÊÿÿÿÿÿ8´Ğ„çÒ/Hš%RCRITICALZVULNERABILITY
+
+java:S1192A"SDefine a constant instead of duplicating this literal "Please Login First" 6 times.(ª›×ùÿÿÿÿ8´Ğ„çÒ/HŸ%RCRITICALZ
+CODE_SMELL
+y
+java:S4684k"@Replace this persistent entity with a simple POJO or DTO object.(ë˜­¿8ØÖ­çÒ/H™%RCRITICALZVULNERABILITY
+
+java:S4684‘"@Replace this persistent entity with a simple POJO or DTO object.(ôùÓËúÿÿÿÿ8´Ğ„çÒ/H•%RCRITICALZVULNERABILITY
+
+java:S4684…"@Replace this persistent entity with a simple POJO or DTO object.(÷æ¹ñøÿÿÿÿ8´Ğ„çÒ/Hœ%RCRITICALZVULNERABILITY
+†
+java:S1192%"KDefine a constant instead of duplicating this literal "LoginForm" 11 times.(­Á©îşÿÿÿÿ8´Ğ„çÒ/HŠ%RCRITICALZ
+CODE_SMELL

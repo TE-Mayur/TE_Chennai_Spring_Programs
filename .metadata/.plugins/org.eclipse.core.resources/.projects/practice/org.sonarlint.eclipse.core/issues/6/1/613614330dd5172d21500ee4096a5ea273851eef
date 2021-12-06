@@ -1,0 +1,22 @@
+
+„
+java:S1192"IDefine a constant instead of duplicating this literal "quantity" 4 times.(§ó‰”úÿÿÿÿ8˜ÿ’¤Ò/H¨RCRITICALZ
+CODE_SMELL
+…
+java:S1192*"PDefine a constant instead of duplicating this literal "materialdetails" 4 times.(Ü¦ëS8£Ä¤¤Ò/HRCRITICALZ
+CODE_SMELL
+|
+java:S1192"FDefine a constant instead of duplicating this literal "price" 4 times.(Ì‘èè8ş˜–¤Ò/H™RCRITICALZ
+CODE_SMELL
+~
+java:S1192""HDefine a constant instead of duplicating this literal "quality" 4 times.(±—çÔ8ş˜–¤Ò/H­RCRITICALZ
+CODE_SMELL
+ƒ
+java:S1192"HDefine a constant instead of duplicating this literal "product" 4 times.(¸ášƒúÿÿÿÿ8ş˜–¤Ò/H²RCRITICALZ
+CODE_SMELL
+
+java:S1192"FDefine a constant instead of duplicating this literal "brand" 4 times.(Ô®èĞøÿÿÿÿ8ş˜–¤Ò/H£RCRITICALZ
+CODE_SMELL
+–
+java:S4144B"^Update this method so that its implementation is not identical to "getMaterialTwo" on line 50.(›ò©¶úÿÿÿÿ8¸†ì·Ò/HéRMAJORZ
+CODE_SMELL

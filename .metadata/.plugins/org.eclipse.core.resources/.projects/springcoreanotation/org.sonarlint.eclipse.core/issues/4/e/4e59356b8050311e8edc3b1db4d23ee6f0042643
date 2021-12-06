@@ -1,0 +1,13 @@
+
+…
+java:S1128"RRemove this unused import 'org.springframework.beans.factory.annotation.Required'.(‘™ê¢8¡Èµ¸Ò/H°RMINORZ
+CODE_SMELL
+a
+java:S1948"&Make "name" transient or serializable.(àè§ùÿÿÿÿ8”æ´¸Ò/H©RCRITICALZ
+CODE_SMELL
+}
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8ö´ƒ¹Ò/HæRMINORZ
+CODE_SMELL
+‹
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ıÿÿÿÿ8§¦…¹Ò/HòRMINORZ
+CODE_SMELL

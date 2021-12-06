@@ -1,0 +1,10 @@
+
+’
+java:S1488l"aImmediately return this expression instead of assigning it to the temporary variable "listofemp".(©õôãúÿÿÿÿH»1RMINORZ
+CODE_SMELL
+ˆ
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "info".(¬óÆºH¼1RMINORZ
+CODE_SMELL
+}
+java:S1128"KRemove this unused import 'com.te.springrest.exceptions.EntityNotFoundExp'.(œ½Ð.8 œƒÂÓ/H½1RMINORZ
+CODE_SMELL

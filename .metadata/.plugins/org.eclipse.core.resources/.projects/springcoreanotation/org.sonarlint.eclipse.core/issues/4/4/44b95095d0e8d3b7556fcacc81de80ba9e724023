@@ -1,0 +1,14 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(éò ×8ïËÕ¥Î/HÃRMAJORZ
+CODE_SMELL
+Œ
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.( šöøÿÿÿÿ8õç¥Î/HÄRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8Óƒ½¦Î/HÅRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÌ’8à”¸¥Î/HÆRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‚¤ÌÒ8©ëÑ¥Î/HÇRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(°ˆŸ„8“œ°¦Î/HÈRMAJORZ
+CODE_SMELL

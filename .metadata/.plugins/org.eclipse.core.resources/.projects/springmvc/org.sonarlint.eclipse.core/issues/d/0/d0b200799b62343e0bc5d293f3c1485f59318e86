@@ -1,0 +1,20 @@
+
+€
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(—ÅÇŸÿÿÿÿÿ8¸Äš˜Ò/HòRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(×¥÷Ô8Œ®œ˜Ò/HøRMAJORZ
+CODE_SMELL
+‡
+java:S1192"LDefine a constant instead of duplicating this literal "welcomepage" 3 times.(žú…ôûÿÿÿÿ8èÆ˜Ò/H¾RCRITICALZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(—š¡ù8¸Äš˜Ò/HôRMAJORZ
+CODE_SMELL
+{
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(µ„ô’8™õÉ”Ò/HåRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(—š¡ù8¯ß´”Ò/HâRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ûƒùC8øÜ¢˜Ò/H€RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(×¥÷Ô8¸Äš˜Ò/HõRMAJORZ
+CODE_SMELL

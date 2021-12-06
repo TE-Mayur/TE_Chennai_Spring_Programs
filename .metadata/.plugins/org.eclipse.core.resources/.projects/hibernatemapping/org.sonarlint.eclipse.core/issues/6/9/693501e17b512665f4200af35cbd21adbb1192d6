@@ -1,0 +1,10 @@
+
+l
+java:S1128"4Remove this unused import 'lombok.ToString.Exclude'.( вїУьяяяя8ЄпеШФ/HЧ<RMINORZ
+CODE_SMELL
+e
+java:S1948)"*Make "projects" transient or serializable.(§Ц№тщяяяя8ЄпеШФ/HЦ<RCRITICALZ
+CODE_SMELL
+`
+java:S1948#"+Make "secondary" transient or serializable.(Ч‘я[8ЄпеШФ/HХ<RCRITICALZ
+CODE_SMELL

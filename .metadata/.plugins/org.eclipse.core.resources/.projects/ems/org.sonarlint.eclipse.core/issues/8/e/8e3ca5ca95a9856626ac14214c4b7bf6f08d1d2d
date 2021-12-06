@@ -1,0 +1,8 @@
+
+j	java:S106&"9Replace this use of System.out or System.err by a logger.(èÌû68´ÛÓÓ/HØ(RMAJORZ
+CODE_SMELL
+
+java:S1192"KDefine a constant instead of duplicating this literal "cookiePage" 3 times.(ò×¬Í8´ÛÓÓ/HÙ(RCRITICALZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(®ìŸÛüÿÿÿÿ8´ÛÓÓ/H×(RMAJORZ
+CODE_SMELL

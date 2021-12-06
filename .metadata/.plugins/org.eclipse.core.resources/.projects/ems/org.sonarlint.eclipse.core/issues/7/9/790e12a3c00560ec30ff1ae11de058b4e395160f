@@ -1,0 +1,13 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Óšªøÿÿÿÿ8“˜ÆÓ/H )RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Üµ¦‹ÿÿÿÿÿ8™¹µÓ/H”)RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¦º_8î¢ÇÓ/H¢)RMAJORZ
+CODE_SMELL
+s
+java:S1126"AReplace this if-then-else statement by a single return statement.(ò$8™¹µÓ/H•)RMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(…¡Â
+8ßÊÉÓ/H¤)RMAJORZ
+CODE_SMELL

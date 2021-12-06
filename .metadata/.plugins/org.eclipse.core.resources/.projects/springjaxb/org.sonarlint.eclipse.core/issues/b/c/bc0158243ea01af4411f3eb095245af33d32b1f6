@@ -1,0 +1,8 @@
+
+l
+java:S1128"9Remove this unused import 'javax.xml.bind.JAXBException'.(×¥וו8צÊך·׃/H-RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(©לתג8¼‘ל·׃/H -RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(÷ו«8¼‘ל·׃/H¡-RMAJORZ
+CODE_SMELL

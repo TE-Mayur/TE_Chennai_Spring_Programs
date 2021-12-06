@@ -1,0 +1,12 @@
+
+‚
+java:S1192"LDefine a constant instead of duplicating this literal "userdetails" 4 times.(Ëìø8°ûÀ›Ò/HÀRCRITICALZ
+CODE_SMELL
+
+java:S1192"IDefine a constant instead of duplicating this literal "userName" 3 times.(…Àæ±8°ûÀ›Ò/HÅRCRITICALZ
+CODE_SMELL
+p	java:S1068"9Replace this use of System.out or System.err by a logger.(î¸ıÿÿÿÿ8• È›Ò/HÉRMAJORZ
+CODE_SMELL
+‚
+java:S1192"GDefine a constant instead of duplicating this literal "userId" 3 times.(ƒÈìşúÿÿÿÿ8°ûÀ›Ò/HÊRCRITICALZ
+CODE_SMELL

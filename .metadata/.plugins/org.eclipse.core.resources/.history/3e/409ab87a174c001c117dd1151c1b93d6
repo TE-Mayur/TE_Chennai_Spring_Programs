@@ -1,0 +1,5 @@
+npackage com.te.hibernatemapping.beans;
+
+public class PrimaryInfoBean {
+
+}
